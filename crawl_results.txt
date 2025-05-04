@@ -1,0 +1,15 @@
+Crawl Results: 
+Total time taken: 88.36 seconds
+Crawl results using multithreading:
+Number of threads: 2
+Total time elapsed: 26.99 seconds
+Crawl results using multithreading:
+Number of threads: 4
+Total time elapsed: 18.72 seconds
+Crawling results using MPI:
+Number of workers: 2
+Total time taken: 87.83 seconds
+Crawling results using MPI:
+Number of workers: 4
+Total time taken: 16.21 seconds
+
